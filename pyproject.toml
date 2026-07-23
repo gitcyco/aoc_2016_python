@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "AOC 2026 in python"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "elf>=1.1.1",
+    "python-dotenv>=1.2.2",
+]
