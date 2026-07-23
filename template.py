@@ -21,7 +21,7 @@ REAL_INPUT = get_puzzle_input(YEAR, DAY)
 
 def main():
     puzzle_input = parse_input(SAMPLE_INPUT)
-    # puzzle_input = parse_input(REAK_INPUT)
+    # puzzle_input = parse_input(REAL_INPUT)
     
     print("SAMPLE:", parse_input(SAMPLE_INPUT))
     # print("REAL:", parse_input(REAL_INPUT))
